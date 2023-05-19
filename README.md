@@ -15,7 +15,7 @@ https://touch-typing-web-bassed.vercel.app/
 
 # Project Clone!
 ```
-https://touch-typing-web-bassed.vercel.app/
+https://github.com/chandanhm1999/Touch-typing-web-bassed
 ```
 
 ## Project setup
