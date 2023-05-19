@@ -13,6 +13,11 @@ https://touch-typing-web-bassed.vercel.app/
 https://touch-typing-web-bassed.vercel.app/
 ```
 
+# Project Clone!
+```
+https://touch-typing-web-bassed.vercel.app/
+```
+
 ## Project setup
 ```
 npm install
